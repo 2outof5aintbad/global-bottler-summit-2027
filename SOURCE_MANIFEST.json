@@ -1,0 +1,12 @@
+{
+  "source_commit": "0d685fcf8ab195b78ab7f5d844e35802d77a29aa",
+  "source_site": "https://london-bottler-summit-2027.gardennewt19.chatgpt.site",
+  "assets_sha256": {
+    "a596ce55007a.webp": "a596ce55007a9ce5f4179f3c3752331353af71601227f7e76b0e1cb74d25cdcf",
+    "75ef8fe16415.png": "75ef8fe16415c3504c1f512f15ad290a8a4dda3bd540a0bff1828b1f1d850cd9",
+    "8405b86565e9.webp": "8405b86565e9e7638ceb6057017eb7081c8ebe2bab041152ef9c10588995a013",
+    "d5bca9f94cdc.webp": "d5bca9f94cdcd00c0e7b0fc0f5a8f17bc24e44aafe9df8ba45360075942ee83b",
+    "554ed73a357f.webp": "554ed73a357f1fca3543d61c05851bad36ca766af22a3ac117f9b0ea9814cd1f"
+  },
+  "notes": "HTML preserved; embedded images externalized without changing their bytes. Heroku Node adapter replaces Cloudflare serving."
+}
